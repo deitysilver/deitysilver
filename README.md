@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on truthfully any project that catches my eye, contact me and I will respond as soon as possible.
 - 📫 You may reach me via my discord (deitysilver)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have dipped my toes in many hobbies outside of just coding, this includes chess, art, badminton etc etc. I also am a frequent enjoyer of philosophy, strategy and reading, and discussions regarding those stuff.
+- ⚡ Fun fact: I have dipped my toes in many hobbies outside of just coding, this includes chess, art, badminton etc etc. I also am a frequent enjoyer of philosophy, strategy and reading, and discussions regarding those topics.
 
 <!---
 deitysilver/deitysilver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
